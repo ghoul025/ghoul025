@@ -1,13 +1,14 @@
-# Hi, I'm Errol
+# Hi, I'm Errol 👋
 
-I currently work as a Technical Representative in IT Operations.
+Computer Science graduate (Cum Laude) and Best in Practicum awardee currently working as a Technical Representative in IT Operations.
 
-This GitHub serves as my personal learning journal and portfolio.
+This GitHub serves as my personal learning journal and portfolio, where I document what I learn, build, troubleshoot, and improve throughout my IT career.
 
-Here you'll find my notes, scripts, troubleshooting references, and projects related to:
+Here you'll find notes, scripts, troubleshooting references, labs, and projects related to:
 
 - IT Operations
 - IT Troubleshooting
+- Hardware & Endpoint Support
 - IT Networking
 - System Administration
 - Automation
@@ -15,4 +16,9 @@ Here you'll find my notes, scripts, troubleshooting references, and projects rel
 - Python
 - Data Analytics
 
-My goal is simple: learn, build, document, and improve one step at a time.
+## Current Philosophy
+
+Learn. Build. Document. Improve.
+
+I believe strong fundamentals, hands-on experience, and consistent documentation are the foundation of long-term growth in technology.
+``
